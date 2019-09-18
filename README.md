@@ -3,7 +3,7 @@ I finish this project with, ML and DL, 2 different ways.
 
 I build and back-test a momentum
 trading strategy in the US equities market. The goal of this project is to motivate financial
-modeling and implement models you acquired throughout this course.
+modeling.
 
 • The dataset provided comprises of stock market data for approximately 1500 stock
 instruments listed on the US stock exchange. It contains daily data from Feb 2008 to
